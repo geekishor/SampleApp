@@ -1,0 +1,10 @@
+﻿body {
+     margin-left:120px;
+     margin-top:45px;
+}
+
+#btnLogin {
+     margin-left:70px;
+     width:220px;
+     background-color:blue;
+}

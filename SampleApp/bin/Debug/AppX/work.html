@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Work Page</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <link href="css/default.css" rel="stylesheet" />
+    <script src="js/main.js"></script>
+</head>
+<body>
+    <h1>Work Page</h1>
+    <div class="mainContent">
+        <input id="subFolderName" type="text" required="required"/>
+        <button id="btnCreateSubFolder" onclick="createSubFolder()" type="button">Create SubFolder</button>
+        <br />
+        <br />
+        <input id="fileName" type="text" required="required" />
+        <button id="btnCreateFile" onclick="createFile()" type="button">Create File</button>
+        <br />
+        <br />
+        <input id="contentWrite" type="text" required="required" />
+        <button id="btnWrite" type="button" onclick="writeIntoFile()">Write into file</button>
+    </div>
+
+</body>
+</html>

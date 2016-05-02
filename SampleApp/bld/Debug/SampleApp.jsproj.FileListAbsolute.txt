@@ -1,0 +1,76 @@
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bin\Debug\ReverseMap\resources.pri
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bin\Debug\AppxManifest.xml
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bin\Debug\SampleApp.build.appxrecipe
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bin\Debug\SampleComponent.winmd
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bin\Debug\SampleComponent.pdb
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bin\Debug\SampleComponent.pri
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\SampleApp.jsprojResolveAssemblyReference.cache
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\priconfig.xml
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\priconfig.xml.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\layout.resfiles
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\layout.resfiles.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\resources.resfiles
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\resources.resfiles.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\pri.resfiles
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\pri.resfiles.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\qualifiers.txt
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\qualifiers.txt.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleApp\bld\Debug\ProjectArchitectures.txt
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bin\Debug\ReverseMap\resources.pri
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bin\Debug\AppxManifest.xml
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bin\Debug\SampleApp.build.appxrecipe
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bin\Debug\SampleComponent.winmd
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bin\Debug\SampleComponent.pdb
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bin\Debug\SampleComponent.pri
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\SampleApp.jsprojResolveAssemblyReference.cache
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\priconfig.xml
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\priconfig.xml.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\layout.resfiles
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\layout.resfiles.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\resources.resfiles
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\resources.resfiles.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\pri.resfiles
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\pri.resfiles.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\qualifiers.txt
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\qualifiers.txt.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\IT@Himalaya\Testing\SampleApp\SampleApp\bld\Debug\ProjectArchitectures.txt
+D:\SampleApp\SampleApp\bin\Debug\ReverseMap\resources.pri
+D:\SampleApp\SampleApp\bin\Debug\AppxManifest.xml
+D:\SampleApp\SampleApp\bin\Debug\SampleApp.build.appxrecipe
+D:\SampleApp\SampleApp\bin\Debug\SampleComponent.winmd
+D:\SampleApp\SampleApp\bin\Debug\SampleComponent.pdb
+D:\SampleApp\SampleApp\bin\Debug\SampleComponent.pri
+D:\SampleApp\SampleApp\bld\Debug\SampleApp.jsprojResolveAssemblyReference.cache
+D:\SampleApp\SampleApp\bld\Debug\priconfig.xml
+D:\SampleApp\SampleApp\bld\Debug\priconfig.xml.intermediate
+D:\SampleApp\SampleApp\bld\Debug\layout.resfiles
+D:\SampleApp\SampleApp\bld\Debug\layout.resfiles.intermediate
+D:\SampleApp\SampleApp\bld\Debug\resources.resfiles
+D:\SampleApp\SampleApp\bld\Debug\resources.resfiles.intermediate
+D:\SampleApp\SampleApp\bld\Debug\pri.resfiles
+D:\SampleApp\SampleApp\bld\Debug\pri.resfiles.intermediate
+D:\SampleApp\SampleApp\bld\Debug\qualifiers.txt
+D:\SampleApp\SampleApp\bld\Debug\qualifiers.txt.intermediate
+D:\SampleApp\SampleApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\SampleApp\SampleApp\bld\Debug\ProjectArchitectures.txt
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\ReverseMap\resources.pri
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\AppxManifest.xml
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\SampleApp.build.appxrecipe
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\SampleComponent.winmd
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\SampleComponent.pdb
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\SampleComponent.pri
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\SampleApp.jsprojResolveAssemblyReference.cache
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\priconfig.xml
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\priconfig.xml.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\layout.resfiles
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\layout.resfiles.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\resources.resfiles
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\resources.resfiles.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\pri.resfiles
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\pri.resfiles.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\qualifiers.txt
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\qualifiers.txt.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\ProjectArchitectures.txt

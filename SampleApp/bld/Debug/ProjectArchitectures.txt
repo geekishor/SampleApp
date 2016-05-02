@@ -1,0 +1,2 @@
+D:\Kishor Bikram Oli\SampleApp\SampleApp\SampleApp.jsproj;neutral
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\SampleComponent.csproj;neutral

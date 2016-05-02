@@ -1,0 +1,72 @@
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\bin\Debug\SampleComponent.winmd
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\bin\Debug\SampleComponent.pdb
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\bin\Debug\SampleComponent.pri
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmd
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\SampleComponent.pdb
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmdobj
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\SampleComponent.compile.pdb
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\priconfig.xml
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\priconfig.xml.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\layout.resfiles
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\layout.resfiles.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\resources.resfiles
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\resources.resfiles.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\pri.resfiles
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\pri.resfiles.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\qualifiers.txt
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\qualifiers.txt.intermediate
+c:\users\procit\documents\visual studio 2013\Projects\SampleApp\SampleComponent\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\bin\Debug\SampleComponent.winmd
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\bin\Debug\SampleComponent.pdb
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\bin\Debug\SampleComponent.pri
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmd
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\SampleComponent.pdb
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmdobj
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\SampleComponent.compile.pdb
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\priconfig.xml
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\priconfig.xml.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\layout.resfiles
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\layout.resfiles.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\resources.resfiles
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\resources.resfiles.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\pri.resfiles
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\pri.resfiles.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\qualifiers.txt
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\qualifiers.txt.intermediate
+E:\IT@Himalaya\Testing\SampleApp\SampleComponent\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\SampleApp\SampleComponent\bin\Debug\SampleComponent.winmd
+D:\SampleApp\SampleComponent\bin\Debug\SampleComponent.pdb
+D:\SampleApp\SampleComponent\bin\Debug\SampleComponent.pri
+D:\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmd
+D:\SampleApp\SampleComponent\obj\Debug\SampleComponent.pdb
+D:\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmdobj
+D:\SampleApp\SampleComponent\obj\Debug\SampleComponent.compile.pdb
+D:\SampleApp\SampleComponent\obj\Debug\priconfig.xml
+D:\SampleApp\SampleComponent\obj\Debug\priconfig.xml.intermediate
+D:\SampleApp\SampleComponent\obj\Debug\layout.resfiles
+D:\SampleApp\SampleComponent\obj\Debug\layout.resfiles.intermediate
+D:\SampleApp\SampleComponent\obj\Debug\resources.resfiles
+D:\SampleApp\SampleComponent\obj\Debug\resources.resfiles.intermediate
+D:\SampleApp\SampleComponent\obj\Debug\pri.resfiles
+D:\SampleApp\SampleComponent\obj\Debug\pri.resfiles.intermediate
+D:\SampleApp\SampleComponent\obj\Debug\qualifiers.txt
+D:\SampleApp\SampleComponent\obj\Debug\qualifiers.txt.intermediate
+D:\SampleApp\SampleComponent\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\bin\Debug\SampleComponent.winmd
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\bin\Debug\SampleComponent.pdb
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\bin\Debug\SampleComponent.pri
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmd
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\SampleComponent.pdb
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\SampleComponent.winmdobj
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\SampleComponent.compile.pdb
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\priconfig.xml
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\priconfig.xml.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\layout.resfiles
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\layout.resfiles.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\resources.resfiles
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\resources.resfiles.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\pri.resfiles
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\pri.resfiles.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\qualifiers.txt
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\qualifiers.txt.intermediate
+D:\Kishor Bikram Oli\SampleApp\SampleComponent\obj\Debug\MultipleQualifiersPerDimensionFound.txt

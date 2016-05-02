@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ITH-116</Machine>
+    <WindowsUser>procit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0a3b1ccf-dff0-4689-84f9-4e19daead18e</PackageIdentityName>
+    <IntermediateOutputPath>D:\Kishor Bikram Oli\SampleApp\SampleApp\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3A2B41CC8881B5CBE9E0AF624622614A91A7D195BA8AAB18D1D83879FEE04210</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0a3b1ccf-dff0-4689-84f9-4e19daead18e_1.0.0.0_neutral__qrwrda7g4f6bm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0a3b1ccf-dff0-4689-84f9-4e19daead18e_qrwrda7g4f6bm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0a3b1ccf-dff0-4689-84f9-4e19daead18e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=procit</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-10T20:37:22.151</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleComponent\bin\Debug\SampleComponent.winmd">
+      <PackagePath>SampleComponent.winmd</PackagePath>
+      <Modified>2015-02-10T20:37:12.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-05T22:20:37.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\work.html">
+      <PackagePath>work.html</PackagePath>
+      <Modified>2015-01-27T22:55:12.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-01-27T06:43:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\js\js\Interactivity.1.1.js">
+      <PackagePath>js\js\Interactivity.1.1.js</PackagePath>
+      <Modified>2015-01-27T01:32:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2015-02-10T19:29:24.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-01-27T07:57:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Kishor Bikram Oli\SampleApp\SampleApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-27T20:45:46.531</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
